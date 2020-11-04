@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### About me 
 
-      You have to have some problem, that you want to solve.
--Steve Jobs
+      You have to have some problem, that you want to solve. -Steve Jobs
+
 To be honest programming isn't a exciting job, you are just literally telling the computer what to do. The thing what actually excites me is that it gives you a superpower to help people, make their life easy , make products what other people can use, Because the power of computer is limitless. 
