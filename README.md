@@ -1,4 +1,5 @@
-### Hi there 👋
+### Nice to meet you ! 👋
+### I'm Sunit Roy, an Android Developer and a Open Source Enuthist 
 
 <!--
 **SunitRoy2703/SunitRoy2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me 
+
+      You have to have some problem, that you want to solve.
+-Steve Jobs
+To be honest programming isn't a exciting job, you are just literally telling the computer what to do. The thing what actually excites me is that it gives you a superpower to help people, make their life easy , make products what other people can use, Because the power of computer is limitless. 
