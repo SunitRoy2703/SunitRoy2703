@@ -1,5 +1,5 @@
 ### Nice to meet you ! 👋
-### I'm Sunit Roy, an Android Developer and a Open Source Enuthist 
+### I'm Sunit Roy, an Android Developer and a Open Source Enthusiast 
 
 <!--
 **SunitRoy2703/SunitRoy2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
