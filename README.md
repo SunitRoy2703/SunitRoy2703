@@ -1,3 +1,13 @@
+<p>
+ <img align="left" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
+
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
+
+
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
 
 - #### From Kolkata, India.
@@ -5,9 +15,7 @@
 - #### I have work experience in Android, Flutter, Augmented Reality, Machine Learning in Mobile<br> 
 - #### I'm currently working in a start-up called Wholesome Company with  <a href="https://birupakshyamahapatra.com/" target="_blank">Birupakshya Mahapatra</a> .
 
-<p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
-</p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
