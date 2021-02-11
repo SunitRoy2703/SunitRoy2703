@@ -54,9 +54,14 @@
 --- 
 
 <p align="left">
-   <i>
-     "If You Think Math is Hard Try Web Design" <br>
-                                         -Trish Parr
+   <i> 
+    
+    
+    “Have the courage to follow your heart and intuition. They 
+       somehow already know what you truly want to become.
+          Everything else is secondary.”
+         
+   ― Steve Jobs
   </i>
 </p>       
 
