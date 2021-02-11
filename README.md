@@ -25,7 +25,7 @@
  ### Languages and Tools:
  
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67560900/107708504-9d780380-6ce9-11eb-8b89-8c901277955c.png" width="70">
+ <img src="https://user-images.githubusercontent.com/67560900/107708789-1bd4a580-6cea-11eb-8299-6787dd5dc2d1.png" width="70">
   <img src="https://user-images.githubusercontent.com/67560900/107708529-a4067b00-6ce9-11eb-8d70-e780676f0dc0.png" width="70">
   <img src="https://user-images.githubusercontent.com/67560900/107707714-53425280-6ce8-11eb-81e8-d0c3e2eb51f2.png" width="70">
    <img src="https://user-images.githubusercontent.com/67560900/107707894-9d2b3880-6ce8-11eb-8dda-9f7332696242.png" width="70">
