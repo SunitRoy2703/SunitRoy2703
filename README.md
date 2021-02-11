@@ -1,10 +1,9 @@
 <p>
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px alt="hellogif">
-</p>
-
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
 
+</p>
 
 
 
@@ -18,7 +17,6 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  ### Languages and Tools:
  
