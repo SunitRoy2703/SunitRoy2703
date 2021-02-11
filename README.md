@@ -2,19 +2,20 @@
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px alt="hellogif">
 </p>
 
-<p>
- <img align="right" src="(https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="310px alt="workgif">
-</p>
-
-
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
+
+
+
 
 - #### From Kolkata, India.
 - #### Student of Electronics & Tele-Communications, <a href="http://eijehowrah.org/" target="_blank">Engineering Institute For Junior Executives</a>.
 - #### I have work experience in Android, Flutter, Augmented Reality, Machine Learning in Mobile<br> 
 - #### I'm currently working in a start-up called Wholesome Company with  <a href="https://birupakshyamahapatra.com/" target="_blank">Birupakshya Mahapatra</a> .
 
+<p>
+ <img align="right" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="310px alt="workgif">
+</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahriarShafin&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
