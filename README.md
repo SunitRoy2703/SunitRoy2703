@@ -1,16 +1,20 @@
 <p>
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px alt="hellogif">
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
-
 </p>
-
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1>
 
 
 - #### From Kolkata, India.
 - #### Student of Electronics & Tele-Communications, <a href="http://eijehowrah.org/" target="_blank">Engineering Institute For Junior Executives</a>.
 - #### I have work experience in Android, Flutter, Augmented Reality, Machine Learning in Mobile<br> 
 - #### I'm currently working in a start-up called Wholesome Company with  <a href="https://birupakshyamahapatra.com/" target="_blank">Birupakshya Mahapatra</a> .
+
+
+
+<p>
+ <img align="center" src="https://user-images.githubusercontent.com/67560900/107701724-4d943f00-6cdf-11eb-8b74-0c16b173d255.gif" width="310px alt="androidgif">
+</p>
+
 
 <p>
  <img align="right" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="310px alt="workgif">
@@ -30,15 +34,10 @@
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
 </p>
 
-<details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=merko" />
-</details>
 
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
-</details>
+   ### 📚 Most Used Languages
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" />
+
 
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
