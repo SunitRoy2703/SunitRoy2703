@@ -2,10 +2,11 @@
 
  ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-- #### From Dhaka, Bangladesh.
-- #### Student of Computer Science & Engineering, <a href="https://www.uap-bd.edu/" target="_blank">University of Asia Pacific.</a>
-- #### I'm currently learing Web Designing.
+- #### From Kolkata, India.
+- #### Student of Electronics & Tele-Communications, <a href="http://eijehowrah.org/" target="_blank">Engineering Institute For Junior Executives</a>.
 - #### I have some works with Arduino Stuff.<br> 
+- #### I'm currently in a start-up called Wholesome Company with  <a href="https://birupakshyamahapatra.com/" target="_blank">Birupakshya Mahapatra</a> .
+
 <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
