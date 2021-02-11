@@ -3,12 +3,12 @@
 </p>
 
 <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="(https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="310px alt="workgif">
 </p>
 
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://www.linkedin.com/in/sunit-roy/" target="_blank">Sunit Roy</a>. Nice to see you.🤗</h1>
 
 - #### From Kolkata, India.
 - #### Student of Electronics & Tele-Communications, <a href="http://eijehowrah.org/" target="_blank">Engineering Institute For Junior Executives</a>.
