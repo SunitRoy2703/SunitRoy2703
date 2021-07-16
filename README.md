@@ -4,10 +4,14 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1>
 
 
-- # From Kolkata, India.
+- # I'm From Kolkata, India.
 - ### Student of Electronics & Tele-Communications, <a href="http://eijehowrah.org/" target="_blank">Engineering Institute For Junior Executives</a>.
-- ### I have mobile development work experience in Android, Flutter, Augmented Reality, Machine Learning . 
-- ### I'm currently working in a start-up called Wholesome Company with  <a href="https://birupakshyamahapatra.com/" target="_blank">Birupakshya Mahapatra</a> .
+- ### Currently I'm contributing to Google's Open Source Machine Learning Platform Tensorflow.
+- ### Earlier I was Junior Software Developer at a start-up called Wholesome Company. 
+- ### I have developed mobile apps using various SDKs like Android, Flutter, ARcore, MLkit.
+- ### I have published some of the apps in the play store you can find them here: https://play.google.com/store/apps/developer?id=Sunit+Roy
+- ### I teach Android development on my youtube channel: https://www.youtube.com/c/sunitroy
+- ### You can also read my blogs here: https://sunitroy.medium.com/
 
 
 
