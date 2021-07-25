@@ -11,6 +11,7 @@
 - ### I have developed mobile apps using various SDKs like Android, Flutter, ARcore, MLkit.
 - ### I have published some of the apps in the play store you can find them here: https://play.google.com/store/apps/developer?id=Sunit+Roy
 - ### I teach Android development on my youtube channel: https://www.youtube.com/c/sunitroy
+- ### I solved your Android problems here: https://discord.gg/jqXQ4Efn63
 - ### You can also read my blogs here: https://sunitroy.medium.com/
 
 
