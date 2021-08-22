@@ -43,10 +43,6 @@
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70"></a>
 </p>
 
-
-
-
-
  ### 📫 Connect with me
  <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
