@@ -1,12 +1,10 @@
 <p>
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px" alt="hellogif">
 </p>
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1>
-
-
-![Profile views](https://gpvc.arturio.dev/SunitRoy2703)
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
 
  # I'm From Kolkata, India.
+ 
 - ### Student of Electronics & Tele-Communications, <a href="https://en.wikipedia.org/wiki/Engineering_Institute_For_Junior_Executives" target="_blank">Engineering Institute For Junior Executives</a>.
 - ### Currently I'm contributing to Google's Open Source Machine Learning Platform [Tensorflow](https://www.tensorflow.org).
 - ### Earlier I was Junior Software Developer at a start-up called Wholesome Company. 
@@ -71,6 +69,7 @@
 
 ---
 
+<p align="center"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
                                       
 ## Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
