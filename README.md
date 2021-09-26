@@ -4,6 +4,8 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1>
 
 
+![Profile views](https://gpvc.arturio.dev/SunitRoy2703)
+
  # I'm From Kolkata, India.
 - ### Student of Electronics & Tele-Communications, <a href="https://en.wikipedia.org/wiki/Engineering_Institute_For_Junior_Executives" target="_blank">Engineering Institute For Junior Executives</a>.
 - ### Currently I'm contributing to Google's Open Source Machine Learning Platform [Tensorflow](https://www.tensorflow.org).
