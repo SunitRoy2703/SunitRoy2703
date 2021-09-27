@@ -5,14 +5,15 @@
 
  # I'm From Kolkata, India.
  
-- ### Student of Electronics & Tele-Communications, <a href="https://en.wikipedia.org/wiki/Engineering_Institute_For_Junior_Executives" target="_blank">Engineering Institute For Junior Executives</a>.
-- ### Currently I'm contributing to Google's Open Source Machine Learning Platform [Tensorflow](https://www.tensorflow.org).
-- ### Earlier I was Junior Software Developer at a start-up called Wholesome Company. 
-- ### I have developed mobile apps using various SDKs like Android, Flutter, ARcore, MLkit.
-- ### I have published some of the apps in the play store you can find them here: https://play.google.com/store/apps/developer?id=Sunit+Roy
-- ### I teach Android development on my youtube channel: https://bit.ly/SunitRoyYT
-- ### I solved your Android problems here: https://discord.gg/jqXQ4Efn63
-- ### You can also read my blogs here: https://sunitroy.medium.com/
+- ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
+- ### 2021 Google Summer Code Student at [Tensorflow](https://www.tensorflow.org)
+- ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
+- ### Ex-Software Developer at a start-up called Wholesome Company. 
+- ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
+- ### Published multiple apps in the Play store, you can find them [here](https://play.google.com/store/apps/developer?id=Sunit+Roy)
+- ### Join my discord community [here](https://discord.gg/jqXQ4Efn63)
+- ### Write blogs [here](https://sunitroy.medium.com/)
+
 
 
 
@@ -49,6 +50,8 @@
  
 <a href="mailto:iamsunitroy03@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.linkedin.com/in/sunit-roy/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/HeySunit"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://sunitroy.medium.com/"><img src="https://user-images.githubusercontent.com/67560900/109533536-57d87a80-7ae0-11eb-8602-d312a0cb0b0e.png" width="45"></a>|<a href="https://bit.ly/SunitRoyYT"><img src="https://user-images.githubusercontent.com/67560900/124399599-ef253700-dd39-11eb-8b81-68807fdc3541.png" width="45"></a>|
 |--|--|--|--|--|
+
+![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
 
  ### 📚 Most Used Languages
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" />
