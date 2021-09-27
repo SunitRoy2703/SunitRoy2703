@@ -8,6 +8,7 @@
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### 2021 Google Summer Code Student at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
+- ### Technical Mentor in [Codepath](https://codepath.org)
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
 - ### Published multiple apps in the Play store, you can find them [here](https://play.google.com/store/apps/developer?id=Sunit+Roy)
