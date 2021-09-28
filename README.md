@@ -32,12 +32,12 @@
 <a href="https://java.com/en/"> <img src="https://user-images.githubusercontent.com/67560900/107707714-53425280-6ce8-11eb-81e8-d0c3e2eb51f2.png" width="70"></a>
 <a href="https://developer.android.com/studio"><img src="https://user-images.githubusercontent.com/67560900/107708529-a4067b00-6ce9-11eb-8d70-e780676f0dc0.png" width="70"></a>
 <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="70"></a>
+<a href="https://developers.google.com/ml-kit"><img src="https://user-images.githubusercontent.com/67560900/107749425-94665100-6d40-11eb-9ed0-e1f2cfbf76b6.png" width="70"></a>
+<a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/67560900/107708172-0f038200-6ce9-11eb-823a-69bfee591629.png" width="70"></a>
 <a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/67560900/135035906-d82d39b6-476a-4389-b47e-ef34956e7054.png" width="70"></a>
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="70"></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70"></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130"></a>
-<a href="https://developers.google.com/ml-kit"><img src="https://user-images.githubusercontent.com/67560900/107749425-94665100-6d40-11eb-9ed0-e1f2cfbf76b6.png" width="70"></a>
-<a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/67560900/107708172-0f038200-6ce9-11eb-823a-69bfee591629.png" width="70"></a>
 </p>
 
 ### 📫 Connect with me
