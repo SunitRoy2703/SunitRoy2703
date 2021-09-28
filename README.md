@@ -4,7 +4,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
 
  # I'm From Kolkata, India.
- 
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
@@ -14,18 +13,11 @@
 - ### Published multiple apps in the Play store, you can find them [here](https://play.google.com/store/apps/developer?id=Sunit+Roy)
 - ### Join my discord community [here](https://discord.gg/jqXQ4Efn63)
 - ### Write blogs [here](https://sunitroy.medium.com/)
-<!-- 
-<p>
- <img align="left" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="310px" alt="workgif">
-</p>
-<p> -->
- <img align="left"  src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="310px" alt="androidgif">
-</p>
 
-
+ <img align="center"  src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400px" alt="androidgif">
+</p>
 
  ## Tools & Technologies:
- 
 <p align="left">
 <a href="https://developer.android.com"><img src="https://user-images.githubusercontent.com/67560900/135036263-b84d2aae-75e0-41d4-a38e-7bd47ca684a8.png" width="70" padding="25"</a>
 <a href="https://kotlinlang.org/"><img src="https://user-images.githubusercontent.com/67560900/107707894-9d2b3880-6ce8-11eb-8dda-9f7332696242.png" width="70"></a>
@@ -52,10 +44,16 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
 
- ### 📚 Most Used Languages
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" />
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunitroy2703&count_private=true&show_icons=true&theme=light" width="470px"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="470px">
 
---- 
+ ### 📚 Most Used Languages
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" width="450px" />
+ <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="470px">
+
+ --- 
+
 
 <p align="left">
    <i> 
