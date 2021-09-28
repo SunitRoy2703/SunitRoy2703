@@ -36,6 +36,8 @@
 <a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/67560900/107708172-0f038200-6ce9-11eb-823a-69bfee591629.png" width="70"></a>
 <a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/67560900/135035906-d82d39b6-476a-4389-b47e-ef34956e7054.png" width="70"></a>
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="70"></a>
+<a href="https://swift.org"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Swift_logo_color.svg" width="70"></a>
+<a href="https://developer.apple.com/xcode/"><img src="https://user-images.githubusercontent.com/67560900/135042645-cade6ad5-dcb8-40c0-a8b1-58cef4d5f8f4.png" width="80"></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70"></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130"></a>
 </p>
