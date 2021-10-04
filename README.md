@@ -69,7 +69,7 @@
 
 ---
 
-<p align="center"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
+ <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
                                       
 ## Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
