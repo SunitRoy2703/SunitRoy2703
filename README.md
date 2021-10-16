@@ -5,6 +5,7 @@
 
  # I'm From Kolkata, India.
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
+- ### Github Campus Expert Trainee 🚩
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
 - ### Technical Mentor in [Codepath](https://codepath.org)
