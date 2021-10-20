@@ -3,7 +3,10 @@
 </p>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
 
+
  # I'm From Kolkata, India.
+  <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
+  
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### Freelance Android Developer 
 - ### Github Campus Expert Trainee 🚩
@@ -71,8 +74,6 @@
 </p>       
 
 ---
-
- <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
                                       
 ## Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
