@@ -1,7 +1,7 @@
 <p>
- <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px" alt="hellogif">
+ <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
 </p>
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
 
 
  # I'm From Kolkata, India.
@@ -20,7 +20,7 @@
 - ### Join my discord community [here](https://discord.gg/jqXQ4Efn63)
 - ### Write blogs [here](https://sunitroy.medium.com/)
 
- <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400px" alt="androidgif">
+ <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
 
  ## Tools & Technologies:
 <p align="left">
@@ -42,7 +42,7 @@
 </p>
 
 ### 📫 Connect with me
-<img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+<img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32">
 
  
 <a href="mailto:iamsunitroy03@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.linkedin.com/in/sunit-roy/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/HeySunit"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://sunitroy.medium.com/"><img src="https://user-images.githubusercontent.com/67560900/109533536-57d87a80-7ae0-11eb-8602-d312a0cb0b0e.png" width="45"></a>|<a href="https://bit.ly/SunitRoyYT"><img src="https://user-images.githubusercontent.com/67560900/124399599-ef253700-dd39-11eb-8b81-68807fdc3541.png" width="45"></a>|<a href="https://www.instagram.com/sunitroy_/"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href="https://discord.gg/jqXQ4Efn63"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Discord-Logo-Color.svg" width="45"></a>
@@ -51,12 +51,12 @@
 ![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
 
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunitroy2703&count_private=true&show_icons=true&theme=light" width="400px"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400px">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunitroy2703&count_private=true&show_icons=true&theme=light" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400">
 
  ### 📚 Most Used Languages
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" width="400px" />
- <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400px">
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitRoy2703&layout=compact" width="400" />
+ <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
 
  --- 
 
