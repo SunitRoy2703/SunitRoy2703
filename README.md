@@ -9,7 +9,7 @@
   
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### Freelance Android Developer 
-- ### Github Campus Expert Trainee 🚩
+- ### [Github Campus Expert](https://education.github.com/experts) Trainee 🚩
 - ### Given talks on [Android Dev](https://youtu.be/LnrkFd2UKaw), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
