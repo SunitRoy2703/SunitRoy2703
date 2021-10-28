@@ -75,7 +75,7 @@
 
 <p href="mailto:iamsunitroy03@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p>
  
-## 📬 me here: iamsunitroy03@gmail.com
+## Mail me here: iamsunitroy03@gmail.com
                                       
 ## Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
