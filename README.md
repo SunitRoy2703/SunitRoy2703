@@ -1,6 +1,4 @@
-<p>
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
-</p>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://sunitroy2703.github.io/" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
 
 
@@ -75,8 +73,9 @@
 
 ---
 
+<p href="mailto:iamsunitroy03@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p>
 
-### Mail me for Public Speaking or Freelance here: iamsunitroy03@gmail.com
+## Mail me for Public Speaking or Freelance here: iamsunitroy03@gmail.com
                                       
 ## Unmute & Listen to my favourite song! 🎧
 https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
