@@ -14,9 +14,9 @@
 - ### Technical Mentor in [Codepath](https://codepath.org)
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
-- ### Published multiple apps in the Play store, you can find them [here](https://bit.ly/SunitRoyPlaystore)
-- ### Join our 100+ developer discord community [here](https://bit.ly/SunitRoyDiscord)
-- ### Write Technical blogs here: [here](https://sunitroy.medium.com/)
+- ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
+- ### Join our 100+ developer [discord community](https://bit.ly/SunitRoyDiscord)
+- ### Write [Technical blogs](https://sunitroy.medium.com/)
 
 
  <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
