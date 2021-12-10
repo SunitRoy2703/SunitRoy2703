@@ -6,16 +6,17 @@
   <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
   
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
+- ### Lead at [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/)
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
-- ### [Github Campus Expert](https://education.github.com/experts) Trainee 🚩
+- ### [Github Campus Expert](https://education.github.com/experts) 🚩
 - ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
-- ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT) (300+)
+- ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT) (400+)
 - ### Technical Mentor in [Codepath](https://codepath.org)
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
 - ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
-- ### Join our 100+ developer [discord community](https://bit.ly/SunitRoyDiscord)
+- ### Join our 150+ developer [discord community](https://bit.ly/SunitRoyDiscord)
 - ### Write [Technical blogs](https://sunitroy.medium.com/)
 
 
