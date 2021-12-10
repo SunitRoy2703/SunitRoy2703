@@ -8,7 +8,7 @@
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
 - ### [Github Campus Expert](https://education.github.com/experts) Trainee 🚩
-- ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY, [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
+- ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT) (300+)
 - ### Technical Mentor in [Codepath](https://codepath.org)
