@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
   
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
-- ### Lead at [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/)
+- ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
 - ### [Github Campus Expert](https://education.github.com/experts) 🚩
 - ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
