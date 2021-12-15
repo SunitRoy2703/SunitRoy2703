@@ -8,7 +8,7 @@
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
-- ### [Github Campus Expert](https://education.github.com/experts) 🚩
+- ### [Github Campus Expert](https://githubcampus.expert/SunitRoy2703/) 🚩
 - ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
