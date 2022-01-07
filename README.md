@@ -3,7 +3,7 @@
 
 
  # I'm From Kolkata, India.
-  <p align="left"> <img src="https://gpvc.arturio.dev/SunitRoy2703" alt="devded" /> </p>
+  <p align="left"> <img src= "https://gpvc.arturio.dev/SunitRoy2703" /> </p>
   
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
 - ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
