@@ -5,12 +5,12 @@
  # I'm From Kolkata, India.
   
 - ### 19 year old Electronics & Tele-Communications Engineering Diploma Student.
+- ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
 - ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
 - ### [Github Campus Expert](https://githubcampus.expert/SunitRoy2703/) 🚩
 - ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
-- ### Teach Android development on my [Youtube channel](https://bit.ly/SunitRoyYT)
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
 - ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
