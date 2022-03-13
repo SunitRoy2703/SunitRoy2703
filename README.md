@@ -14,7 +14,7 @@
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
 - ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
-- ### Join our 150+ developer [discord community](https://bit.ly/SunitRoyDiscord)
+- ### Join our 200+ developer [discord community](https://bit.ly/SunitRoyDiscord)
 - ### Write [Technical blogs](https://sunitroy.medium.com/)
 
 
