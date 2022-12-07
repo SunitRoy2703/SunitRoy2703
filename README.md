@@ -4,8 +4,8 @@
 
  # I'm From Kolkata, India.
   
-- ### 20 year old Electronics & Tele-Communications Engineering Diploma Student.
-- ### Building [Kitepay](http://kitepay.org)
+- ### 20 year old Computer Science Engineering Student.
+- ### Building [Kitepay](http://kitepay.org) on [Solana Pay](https://solanapay.com/)
 - ### Teach Android development on my [Youtube channel](https://www.youtube.com/SunitRoy)
 - ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
 - ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
@@ -14,8 +14,8 @@
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
 - ### Ex-Software Developer at a start-up called Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
-- ### Published [multiple apps](https://bit.ly/SunitRoyPlaystore) in the Play store
-- ### Join our 200+ developer [discord community](https://bit.ly/SunitRoyDiscord)
+- ### Published [multiple apps](https://play.google.com/store/apps/dev?id=5329470231664341135) in the Play store
+- ### Join our 250+ developer [discord community](https://bit.ly/SunitDiscord)
 - ### Write [Technical blogs](https://sunitroy.medium.com/)
 
 
