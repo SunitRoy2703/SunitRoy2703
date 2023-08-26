@@ -12,7 +12,7 @@
 - ### [Github Campus Expert](https://githubcampus.expert/SunitRoy2703/) 🚩
 - ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
 - ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
-- ### Ex-Software Developer at a start-up called Wholesome Company. 
+- ### Ex-Software Developer at Wholesome Company. 
 - ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
 - ### Published [multiple apps](https://play.google.com/store/apps/dev?id=5329470231664341135) in the Play store
 - ### Join our 250+ developer [discord community](https://bit.ly/SunitDiscord)
