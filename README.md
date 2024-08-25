@@ -1,52 +1,46 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="sunit.in" target="_blank">Sunit Roy</a>. Nice to see you.🤗 </h1> 
+<h1 align="center">Hi 👋, I'm Sunit Roy</h1>
+<h3 align="center">A Software Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitroy2703&label=Profile%20views&color=0e75b6&style=flat" alt="sunitroy2703" /> </p>
 
- # I'm From Kolkata, India.
-  
-- ### 20 year old Computer Science Engineering Student.
-- ### Building [Kitepay](http://kitepay.org) on [Solana Pay](https://solanapay.com/)
-- ### Teach Android development on my [Youtube channel](https://www.youtube.com/SunitRoy)
-- ### [Kolkata Twitter Developer Community](https://twitterdev.bevylabs.com/kolkata-twitter-developer-community/) Lead
-- ### Freelance [Android Developer](mailto:iamsunitroy03@gmail.com) 
-- ### [Github Campus Expert](https://githubcampus.expert/SunitRoy2703/) 🚩
-- ### Given [talks](https://bit.ly/SunitRoyAllSeminars) on [Android Dev](https://youtu.be/B0Tf4SRlzXY), [TFLite](https://youtu.be/sZayUoWW6nE) & [Open Source](https://youtu.be/iws-QGALzLk)
-- ### [2021 Google Summer Code Student](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) at [Tensorflow](https://www.tensorflow.org)
-- ### Ex-Software Developer at Wholesome Company. 
-- ### Designed & developed mobile apps using various SDKs like Android, Flutter, IOS, TFLite, Firebase, ARcore, MLkit.
-- ### Published [multiple apps](https://play.google.com/store/apps/dev?id=5329470231664341135) in the Play store
-- ### Join our 250+ developer [discord community](https://bit.ly/SunitDiscord)
-- ### Write [Technical blogs](https://sunitroy.medium.com/)
+- 🔭 I’m currently working on [Bulk Labs](https://github.com/bulk-trade)
 
+- 🏆 I was a Google Summer of Code Developer at [Google Tensorflow](https://www.tensorflow.org/)
 
- <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
+- 🎤 I've spoken & mentored at Google IO extended, IIT, NIT, IIIT and various Universities
 
- ## Tools & Technologies:
+- 🌱 I’m currently learning **HFT Systems**
+
+- 👯 I’m looking to collaborate on **Solana Projects**
+
+- 🤝 I’m looking for help with **Low Latency Systems**
+
+- 👨‍💻 All of my projects are available at [https://sunit.in/](https://sunit.in/)
+
+- 📝 I regularly write articles on [https://medium.com/@sunitroy](https://medium.com/@sunitroy)
+
+- 💬 Ask me about **Solana, Rust, Node.js**
+
+- 🚀 Join hundreds of devs in my [discord](https://bit.ly/SunitDiscord)
+
+- 📫 How to reach me **iamsunitroy03@gmail.com**
+
+- 📄 Know about my experiences [link](https://docs.google.com/document/d/1EKnVJjLSlrnGOAs20G2Q4VcOr1X7PI3VEt1zy9FmIaQ/edit)
+
+- ⚡ Fun fact **I'm a big football fan⚽️**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.android.com"><img src="https://user-images.githubusercontent.com/67560900/135036263-b84d2aae-75e0-41d4-a38e-7bd47ca684a8.png" width="70" padding="25"</a>
-<a href="https://kotlinlang.org/"><img src="https://user-images.githubusercontent.com/67560900/107707894-9d2b3880-6ce8-11eb-8dda-9f7332696242.png" width="70"></a>
-<a href="https://java.com/en/"> <img src="https://user-images.githubusercontent.com/67560900/107707714-53425280-6ce8-11eb-81e8-d0c3e2eb51f2.png" width="80"></a>
-<a href="https://developer.android.com/studio"><img src="https://user-images.githubusercontent.com/67560900/107708529-a4067b00-6ce9-11eb-8d70-e780676f0dc0.png" width="70"></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="70"></a>
-<a href="https://www.tensorflow.org/lite"><img src="https://user-images.githubusercontent.com/67560900/137642292-bbb8bd58-81c1-4ade-9a15-85ffa0be9a2c.png" width="80"></a>
-<a href="https://developers.google.com/ml-kit"><img src="https://user-images.githubusercontent.com/67560900/107749425-94665100-6d40-11eb-9ed0-e1f2cfbf76b6.png" width="80"></a>
-<a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/67560900/107708172-0f038200-6ce9-11eb-823a-69bfee591629.png" width="70"></a>
-<a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/67560900/135035906-d82d39b6-476a-4389-b47e-ef34956e7054.png" width="70"></a>
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="70"></a>
-<a href="https://swift.org"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Swift_logo_color.svg" width="70"></a>
-<a href="https://developer.apple.com/xcode/"><img src="https://user-images.githubusercontent.com/67560900/135042645-cade6ad5-dcb8-40c0-a8b1-58cef4d5f8f4.png" width="80"></a>
-<a href="https://gradle.org"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/gradle-elephant-icon-gradient-primary.svg" width="95"></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70"></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130"></a>
+<a href="https://twitter.com/heysunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysunit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/sunit-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sunit-roy" height="30" width="40" /></a>
+<a href="https://medium.com/sunitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sunitroy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sunitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunitroy" height="30" width="40" /></a>
+<a href="https://discord.gg/HeySunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HeySunit" height="30" width="40" /></a>
 </p>
 
-### 📫 Connect with me
-<img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<a href="mailto:iamsunitroy03@gmail.com"><img src="https://user-images.githubusercontent.com/67560900/142841436-2ec3fd04-8b20-45c3-b8e0-582b0f92641b.png" width="40"></a>|<a href="https://www.linkedin.com/in/sunit-roy/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/HeySunit"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://sunitroy.medium.com/"><img src="https://user-images.githubusercontent.com/67560900/109533536-57d87a80-7ae0-11eb-8602-d312a0cb0b0e.png" width="45"></a>|<a href="https://bit.ly/SunitRoyYT"><img src="https://user-images.githubusercontent.com/67560900/124399599-ef253700-dd39-11eb-8b81-68807fdc3541.png" width="45"></a>|<a href="https://www.instagram.com/sunitroy_/"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href="https://bit.ly/SunitRoyDiscord"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Discord-Logo-Color.svg" width="45"></a>
-|--|--|--|--|--|--|--|
-
-![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
 
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunitroy2703&count_private=true&show_icons=true&theme=light" width="400"/>
@@ -71,9 +65,5 @@
 </p>       
 
 ---
-
-<!-- <p href="mailto:iamsunitroy03@gmail.com"> <img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/mental%20health.gif" padding="25"</p> -->
                                       
-# Unmute & Listen to my favourite song! 🎧
-https://user-images.githubusercontent.com/67560900/131628711-9d67d249-77bf-4d4c-8171-9f68d85434f9.mp4
 
