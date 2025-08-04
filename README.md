@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitroy2703&label=Profile%20views&color=0e75b6&style=flat" alt="sunitroy2703" /> </p>
 
-- 🔭 I’m currently working on [Bulk Labs](https://github.com/bulk-trade)
+- 🔭 I’m currently working on Optimized Solana programs
 
 - 🏆 I was a Google Summer of Code Developer at [Google Tensorflow](https://www.tensorflow.org/)
 
