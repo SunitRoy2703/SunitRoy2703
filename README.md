@@ -21,11 +21,9 @@
 
 - 💬 Ask me about **Solana, Rust, Node.js**
 
-- 🚀 Join hundreds of devs in my [discord](https://bit.ly/SunitDiscord)
-
 - 📫 How to reach me **iamsunitroy03@gmail.com**
 
-- 📄 Know about my experiences [link](https://docs.google.com/document/d/1EKnVJjLSlrnGOAs20G2Q4VcOr1X7PI3VEt1zy9FmIaQ/edit)
+- 📄 Know about my experiences [link](https://docs.google.com/document/d/18GEWDp_7YsTFnDxfTybvfKfSgs-PAl5W-Dt6tIa1auA/edit?tab=t.0)
 
 - ⚡ Fun fact **I'm a big football fan⚽️**
 
