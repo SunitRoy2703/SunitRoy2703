@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **iamsunitroy03@gmail.com**
 
-- 📄 Know about my experiences [link](https://docs.google.com/document/d/18GEWDp_7YsTFnDxfTybvfKfSgs-PAl5W-Dt6tIa1auA/edit?tab=t.0)
-
 - ⚡ Fun fact **I'm a big football fan⚽️**
 
 <h3 align="left">Connect with me:</h3>
